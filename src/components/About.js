@@ -1,3 +1,5 @@
+
+
 import React from "react";
 import Links from "./Links";
 
@@ -12,4 +14,4 @@ function About({ bio, links }) {
   );
 }
 
-export default About;
+export default About
